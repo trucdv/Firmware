@@ -1,4 +1,5 @@
 {
+    "authen":"",
     "version": 2.3,
-    "file": "https://raw.githubusercontent.com/Nhanhandsome/Firmware/master/mbs.bin"
+    "url": "https://raw.githubusercontent.com/Nhanhandsome/Firmware/master/mbs.bin"
 }
