@@ -1,5 +1,5 @@
 {
-    "authen":"",
-    "version": 2.3,
+    "authen":"all",
+    "version": 2.4,
     "url": "https://raw.githubusercontent.com/Nhanhandsome/Firmware/master/mbs.bin"
 }
